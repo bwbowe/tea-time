@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+    opacity: .9;
+    color: seashell;
+    font-family: Helvetica;
+    text-align: center;
+    font-size: 22px;
+}
+.mission {
+    background-image: url(./images/img-mission-background\ \(1\).jpg);
+}
