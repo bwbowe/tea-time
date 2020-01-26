@@ -75,3 +75,25 @@ main {
 .month {
     padding: 5px;
 }
+#locations {
+    background-image: url(./images/img-locations-background\ \(1\).jpg);
+    height: 500px;
+    padding-top: 69px;
+    margin-top: 100px;
+}
+}
+.locations {
+    display: flex;
+    justify-content: center;
+}
+.address {
+    background-color: black;
+    display: inline-block;
+    width: 300;
+    margin: 0 20px;
+    opacity: 1.0;
+}
+p {
+    margin: 2rem 0;
+}
+
