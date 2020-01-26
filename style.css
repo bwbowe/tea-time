@@ -1,3 +1,24 @@
+
+header {
+    position: fixed;
+    background-color: black;
+    display: flex;
+    width: 100%;
+    border-bottom: 1px solid seashell;
+    height: 69px;
+    align-items: center;
+}
+header img {
+    height: 50px;
+    padding-left: 10px;
+}
+nav {
+    display: inline-flex;
+}
+a {
+    color: seashell;
+    text-align: right;
+}
 body {
     background-color: black;
     opacity: .9;
@@ -5,7 +26,9 @@ body {
     font-family: Helvetica;
     text-align: center;
     font-size: 22px;
+    margin: 0;
 }
+
 .mission {
     background-image: url(./images/img-mission-background\ \(1\).jpg);
 }
