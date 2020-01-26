@@ -34,7 +34,23 @@ body {
     font-size: 22px;
     margin: 0;
 }
-
-.mission {
-    background-image: url(./images/img-mission-background\ \(1\).jpg);
+main {
+    padding-top: 69px;
+    width: 1200px;
+    margin: auto;
 }
+#mission {
+    background-image: url(./images/img-mission-background\ \(1\).jpg);
+    height: 700px;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+}
+.mission {
+    background-color: black;
+    align-items: center;
+    margin: auto 0;
+    width: 100%;
+    
+}
+
