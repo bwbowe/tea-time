@@ -9,8 +9,8 @@ header {
     height: 69px;
     align-items: center;
     display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
+    justify-content: space-between;
+    /* flex-wrap: wrap; */
 }
 header img {
     height: 50px;
