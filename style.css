@@ -46,11 +46,11 @@ main {
     height: 700px;
     background-repeat: no-repeat;
     display: flex;
-    justify-content: center;
+    /* justify-content: center; */
 }
 .mission {
     background-color: black;
-    align-items: center;
+    /* align-items: center; */
     margin: auto;
     width: 1200px;   
 }
